@@ -1,4 +1,4 @@
-package Training;
+package local.home.basic.training;
 
 
 import schemacrawler.schema.Table;
